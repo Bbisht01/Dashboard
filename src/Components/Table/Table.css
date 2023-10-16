@@ -1,0 +1,38 @@
+.table-header {
+  color: #d4d5da !important;
+  /* font-weight: 400 !important; */
+  &.product-name {
+    width: 70%;
+  }
+  &.stocks {
+    width: 10%;
+    text-align: center;
+  }
+}
+
+.table-data.rows {
+  border: none;
+}
+
+.product-description {
+  color: #d4d5da !important;
+}
+
+.price {
+  text-align: start !important;
+}
+
+.product-images {
+  height: 50px;
+  border-radius: 10px;
+  margin-top: -5%;
+}
+
+.sales {
+  width: 10%;
+  text-align: center !important;
+}
+
+.table-data {
+  font-weight: 600 !important;
+}

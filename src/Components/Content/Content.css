@@ -1,0 +1,8 @@
+.donut-bar-chart-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-view {
+  padding: 1em 1em;
+}

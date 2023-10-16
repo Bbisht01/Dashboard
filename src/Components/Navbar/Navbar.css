@@ -1,0 +1,11 @@
+.head-navbar {
+  display:flex;
+  justify-content: space-between;
+  /* margin: 10px 1em; */
+  margin-bottom: 4%;
+  
+}
+.navbar-name{
+  display: flex;
+  font-weight: 600; 
+}
